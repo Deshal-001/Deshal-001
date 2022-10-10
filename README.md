@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deshal-001
+- 👋 Hi, I’m Kavindu Deshal
 
 <!---
 Deshal-001/Deshal-001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
