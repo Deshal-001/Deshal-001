@@ -1,1 +1,1 @@
-👋 Hi, I’m Kavindu Deshal, a software engineering student with a passion for building scalable and efficient applications. I'm always eager to learn new technologies and collaborate with others to create innovative solutions. Let's connect and build something great together!
+👋 Hi, I’m Kavindu Deshal, a software Developer with a passion for building scalable and efficient applications. I'm always eager to learn new technologies and collaborate with others to create innovative solutions. Let's connect and build something great together!
