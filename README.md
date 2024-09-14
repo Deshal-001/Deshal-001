@@ -6,8 +6,11 @@
 ---
 ### GitHub Stats
 
-
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Deshal-001&theme=dark&exclude_days=Sun%2CSat" alt="" /></p>
 
 <br />
 <br />
+
+[github]: https://github.com/Deshal-001
+[linkedin]: https://www.linkedin.com/in/deshal001
+
