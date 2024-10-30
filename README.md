@@ -4,6 +4,8 @@
 
 ---
 
+![Deshal-001's Stats](https://github-readme-stats.vercel.app/api?username=Deshal-001&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
+
 
 [github]: https://github.com/Deshal-001
 [linkedin]: https://www.linkedin.com/in/deshal001
