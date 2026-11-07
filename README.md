@@ -1,6 +1,6 @@
 # Kavindu Deshal Hembadura
 
-Software engineer in Hannover. I build apps people use, then write down how.
+Software engineer. I build apps people use, then write down how.
 
 [![Portfolio](https://img.shields.io/badge/deshal.me-FF4F12?style=for-the-badge&logoColor=white)](https://deshal.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deshal001/)
